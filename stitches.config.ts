@@ -6,7 +6,7 @@ import {
   grass,
   blue,
   tomato,
-  slate,
+  grayDark,
 } from "@radix-ui/colors";
 
 export const {
@@ -27,8 +27,10 @@ export const {
       ...grass,
       ...blue,
       ...tomato,
-      ...slate,
+      ...grayDark,
       primary: orange.orange9,
+      background: grayDark.gray2,
+      text: "white",
     },
   },
 });
