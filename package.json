@@ -2,6 +2,11 @@
   "name": "stitches-dynamic-theme",
   "version": "0.1.0",
   "private": true,
+  "license": "MIT",
+  "author": {
+    "name": "Jean Tivan",
+    "url": "https://github.com/jeantivan/"
+  },
   "scripts": {
     "dev": "next dev",
     "build": "next build",
